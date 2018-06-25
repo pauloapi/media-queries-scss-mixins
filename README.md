@@ -1,5 +1,5 @@
-# flex-layout-media-queries-scss-mixin
-Angular Flex Layout Media Queries SCSS Mixin
+# media-queries-scss-mixins
+Media Queries SCSS Mixins based on Angular FlexLayout
 
 ### Installation
 Download and include `custom-queries.scss`.
