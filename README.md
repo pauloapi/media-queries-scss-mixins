@@ -2,10 +2,10 @@
 Media Queries SCSS Mixins based on Angular FlexLayout
 
 ### Installation
-Download and include `custom-queries.scss`.
+Download and include `media-queries.scss`.
 
 ```scss
-@import 'custom-queries.scss';
+@import 'media-queries.scss';
 ```
 
 ### Example
@@ -20,7 +20,7 @@ Download and include `custom-queries.scss`.
   }
 }
 ```
-Demo: [Stackblitz](https://stackblitz.com/edit/angular-utnmic?file=src%2Fapp%2Fapp.component.scss)
+Demo: [Stackblitz](https://stackblitz.com/edit/angular-utnmic?file=src%2Fmedia-queries.scss)
 
 ### MediaQueries and Aliases
 You can associate breakpoints with mediaQuery definitions using breakpoint alias(es):
