@@ -5,7 +5,7 @@ Media Queries SCSS Mixins based on Angular FlexLayout
 Download and include `media-queries.scss`.
 
 ```scss
-@import 'media-queries.scss';
+@use 'media-queries.scss' as *;
 ```
 
 ### Example
